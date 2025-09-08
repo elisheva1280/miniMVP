@@ -2,13 +2,13 @@
   "name": "server",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://github.com/elisheva1280/miniMVP#readme",
+  "homepage": "https://github.com/elisheva1280/smartLearning#readme",
   "bugs": {
-    "url": "https://github.com/elisheva1280/miniMVP/issues"
+    "url": "https://github.com/elisheva1280/smartLearning/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/elisheva1280/miniMVP.git"
+    "url": "git+https://github.com/elisheva1280/smartLearning.git"
   },
   "license": "ISC",
   "author": "Elisheva Cohen",
